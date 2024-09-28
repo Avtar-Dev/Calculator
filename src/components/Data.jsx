@@ -32,7 +32,7 @@ const Data = () => {
           <div className="btns">
             <button onClick={() => setValueOfButton("")}>C</button>
             <button onClick={buttonHandler}>M+</button>
-            <button onClick={backHandler}>{"<<"}</button>
+            <button onClick={backHandler}>{"<<<"}</button>
             <button onClick={buttonHandler}>+</button>
           </div>
           <div className="btns">
